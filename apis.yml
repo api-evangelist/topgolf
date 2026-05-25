@@ -1,0 +1,92 @@
+aid: topgolf
+name: Topgolf Callaway Brands
+description: >-
+  Topgolf Callaway Brands is a Carlsbad, California–headquartered modern golf
+  and active lifestyle company, formerly Callaway Golf Company, that rebranded
+  in August 2022 following its 2020 acquisition of Topgolf for approximately
+  $2 billion. The company operates across three reportable segments: Topgolf
+  entertainment venues, Golf Equipment (Callaway and Odyssey clubs and balls),
+  and Active Lifestyle (TravisMathew, Jack Wolfskin, OGIO, and Callaway
+  apparel and gear). Adjacent technology offerings include Toptracer, the
+  ball-tracing platform powering over 1,200 driving ranges globally and used
+  as the official ball-tracing partner for major broadcasters including NBC,
+  CBS, Golf Channel, and Sky Sports, as well as Toptracer Range, Toptracer
+  Go, and Topgolf Swing Suite golf simulation. In September 2024 the company
+  announced plans to separate Topgolf into a standalone publicly traded
+  company by late 2025, with Callaway retaining a minority stake and
+  remaining its official golf equipment supplier. The company does not
+  publish a public developer API, OpenAPI specification, partner SDK, or
+  open-source library across any of its consumer or facility-operator
+  surfaces. The TopGolf GitHub organization (github.com/TopGolf) contains
+  only generic internal infrastructure tooling — RabbitMQ wrappers, Docker
+  logging drivers, Ansible roles, AWS WAF templates, a Lyft iOS SDK fork —
+  with no Topgolf-, Callaway-, or Toptracer-branded APIs, clients, or
+  schemas. Toptracer facility integrations and Topgolf venue partnerships
+  are handled through private commercial agreements rather than a self-serve
+  developer program.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Golf
+  - Sports Entertainment
+  - Entertainment Venues
+  - Golf Equipment
+  - Golf Clubs
+  - Golf Balls
+  - Golf Apparel
+  - Active Lifestyle
+  - Ball Tracing
+  - Driving Range Technology
+  - Golf Simulation
+  - Broadcast Technology
+  - Consumer Brands
+  - Retail
+url: https://raw.githubusercontent.com/api-evangelist/topgolf/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.topgolfcallawaybrands.com
+  - type: InvestorRelations
+    url: https://www.topgolfcallawaybrands.com/investors
+  - type: PressRoom
+    url: https://www.topgolfcallawaybrands.com/news
+  - type: Sustainability
+    url: https://www.topgolfcallawaybrands.com/sustainability
+  - type: Careers
+    url: https://www.topgolfcallawaybrands.com/careers
+  - type: Topgolf
+    url: https://www.topgolf.com
+  - type: Callaway
+    url: https://www.callawaygolf.com
+  - type: Odyssey
+    url: https://www.odysseygolf.com
+  - type: OGIO
+    url: https://www.ogio.com
+  - type: TravisMathew
+    url: https://www.travismathew.com
+  - type: JackWolfskin
+    url: https://www.jack-wolfskin.com
+  - type: Toptracer
+    url: https://toptracer.com
+  - type: ToptracerRange
+    url: https://toptracer.com/toptracer-range
+  - type: ToptracerGo
+    url: https://toptracer.com/toptracer-go
+  - type: TopgolfSwingSuite
+    url: https://swingsuite.topgolf.com
+  - type: GitHub
+    url: https://github.com/TopGolf
+  - type: Twitter
+    url: https://twitter.com/Topgolf
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/topgolf-callaway-brands
+  - type: YouTube
+    url: https://www.youtube.com/@Topgolf
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
